@@ -4,7 +4,7 @@
 <!--With Markdown image code: cannot edit image properties-->
 <!--![Alt text](https://github.com/mg-Ben/mg-Ben/blob/main/images/hello_world_title.jpg)-->
 <!--With HTML image code: allows editing image properties-->
-<img src="https://github.com/mg-Ben/mg-Ben/blob/main/images/hello_world_title.jpg"></img>
+<img src="https://github.com/mg-Ben/mg-Ben/blob/main/images/hello_world_title_binarized.jpg" class="center"></img>
 
 This is my README.md presentation
 <!--
