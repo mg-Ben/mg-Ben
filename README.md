@@ -1,5 +1,10 @@
-<h1 align="center"; style="font-family: serif;">Hello world!\n</h1>
-
+<!--Title-->
+<!--With HTML code-->
+<!--<h1 align="center">Hello world!\n</h1>-->
+<!--With Markdown image code: cannot edit image properties-->
+<!--![Alt text](https://github.com/mg-Ben/mg-Ben/blob/main/images/hello_world_title.jpg)-->
+<!--With HTML image code: allows editing image properties-->
+<img src="https://github.com/mg-Ben/mg-Ben/blob/main/images/hello_world_title.jpg"></img>
 
 This is my README.md presentation
 <!--
