@@ -95,6 +95,4 @@ This is my general knowledge...
 # > How can you reach me?_
 You can find me on [![LinkedIn](https://img.shields.io/badge/>-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/benjam%C3%ADn-mart%C3%ADn-g%C3%B3mez-60a8ab271/)
 
-You can give me a star if you want [![GitHubStar](https://img.shields.io/badge/GitHub-Give_a_star-yellow?logo=github&logoColor=white)](https://stars.github.com/nominate/)
-
 Nice to meet you!
