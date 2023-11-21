@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # > I am Benjamín Martín Gómez, MSc Telecommunication Engineer & Network Observability Analyst_
 I am passionate about the whole field of Telecommunication Engineering:
-- Computer Networks and Cibersecurity 🔒🛡️
+- Computer Networks and Cybersecurity 🔒🛡️
 - Antenna and RadioFrequency design 📡
 - Software development 💻
 - Electronics and analog circuits :electron:
