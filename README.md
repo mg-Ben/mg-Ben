@@ -32,6 +32,7 @@ And much more 😄!
 
 #  > What things do I know to do?_
 ## What programming languages do I speak?
+I speak spanish and english, but also...
 <!-- Supported icons: https://simpleicons.org/ Just copy the icon title -->
 <!-- Badges can be found at: https://shields.io/ -->
 [![C language](https://img.shields.io/badge/>C_language-grey?logo=c)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
@@ -41,7 +42,7 @@ And much more 😄!
 [![JavaScript](https://img.shields.io/badge/>-JavaScript-F7DF1E?logo=javascript)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
 [![Java](https://img.shields.io/badge/Java-red)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
 
-## Tools I have used...
+## Tools I have used
 I am experienced at...
 
 [![LT Spice](https://img.shields.io/badge/LT_Spice-red)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
@@ -59,30 +60,41 @@ I am experienced at...
 [![Arduino](https://img.shields.io/badge/>-Arduino_IDE-00878F?logo=arduino&logoColor=00878F)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
 [![AndroidStudio](https://img.shields.io/badge/>-Android_Studio-3DDC84?logo=androidstudio)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
+[![GitFlow](https://img.shields.io/badge/>-Git_Flow-0052CC?logo=atlassian&logoColor=0052CC)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
+[![Grafana](https://img.shields.io/badge/>-Grafana-F46800?logo=grafana)](https://github.com/mg-Ben/mg-Ben/edit/main/README.md)
+
 
 ## General skills
 This is my general knowledge...
 
 ### Computer systems
-- Microprocessors
-- Coding and Software
+- **Microprocessors**: theory, design in VHDL, threading and programming, assembly language, pipelining...
+- **Coding and Software**: programming on different languages and environments, general computer theory, software projects...
 
 ### Computer networks
+- **Network monitoring and analysis**: SNMP, network simulation (mininet) and pcap trace analysis (tshark/wireshark), real-time metrics visualization (Grafana)...
+- **Cybersecurity**: AI and Machine Learning techniques. Master's thesis about (D)DoS and subtle anomaly detection through predictive LSTM and Holt Winters time series approach.
 
 ### Analog and digital circuits
+- **Analog circuit design and analysis**: analog circuit theory and solving, analog circuit simulation in time and frequency domain (LTSpice, Matlab), analog filter design, sensors and actuators conditioning circuits, quadrupole characterization...
+- **Digital circuit design and analysis**: digital circuit theory and solving, digital circuit implementation and simulation (Modelsim, VHDL), FPGA theory and simulation (Xilinx Vivado-Vitis HLS), signaling protocols, digital filter design...
 
-### Signal theory
+### Signal
+- **Mathematic theory**: Lineal system mathematic characterization, Fourier transform (FT, DTFT, DFT/FFT/STFT) and Fourier Series, communication theory and modulations, noise and distortion stochastic characterization...
+- **Image & Sound**: Multimedia signal processing, Machine Learning techniques (PCA, SVM, K-means, Neural Networks, LSTM, among others), Image and sound filtering...
 
 ### RadioFrequency field
+- **Electromagnetic waves physics**: electromagnetic waves mathematic characterization (vectorial fields, phasors) and solving.
+- **Radiocommunication devices**: transmission lines analysis and solving, radiocommunication devices design and simulation (ADS, CST), waveguides design, antenna design, communication electronic design (radiofrequency filters, power amplifiers, local oscillators)...
 
 ### Microcontrollers
+- **Microcontroller programming**: register binary manipulation (Arduino, mbed), robotics and sensor-actuator projects.
 
-### Mathematics and Physics
-
-### Instrumentation and sensors
-
-## But I'm always willing to learn! ✍️📘
+## But I'm always willing to learn new things! ✍️📘
 
 # > How can you reach me?_
+You can find me on [![LinkedIn](https://img.shields.io/badge/>-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/benjam%C3%ADn-mart%C3%ADn-g%C3%B3mez-60a8ab271/)
+
+You can give me a star if you want [![GitHubStar](https://img.shields.io/badge/GitHub-Give_a_star-yellow?logo=github&logoColor=white)](https://stars.github.com/nominate/)
 
 Nice to meet you!
