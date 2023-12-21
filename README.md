@@ -30,7 +30,7 @@ I am passionate about the whole field of Telecommunication Engineering:
 
 And much more 😄!
 
-#  > What things do I know to do?_
+#  > What things do I know how to do?_
 ## What programming languages do I speak?
 I speak spanish and english, but also...
 <!-- Supported icons: https://simpleicons.org/ Just copy the icon title -->
